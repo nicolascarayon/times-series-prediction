@@ -1,0 +1,9 @@
+numpy
+seaborn
+sklearn
+matplotlib
+torch
+ipykernel
+tdqm
+ipywidgets
+fastai
