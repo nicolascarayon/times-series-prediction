@@ -3,7 +3,7 @@ import pandas as pd
 import numpy as np
 
 data = pd.read_csv('CAC40-^FCHI.csv')
-
+# bla bla
 # Preprocessing
 data['Date'] = pd.to_datetime(data['Date'])
 data.sort_values('Date', inplace=True)
